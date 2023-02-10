@@ -1,0 +1,62 @@
+.dest1{
+    width: 150px;
+    height: 170px;
+}
+
+.back a{
+    position: relative;
+    top: 75px;
+    left: 40px;
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(56, 115, 134);
+}
+.back{
+    width: 100%;
+    height: 120px;
+    /* margin-top: -20px; */
+    background-image: url(..\assets\beach.jpg);
+    background-size: 100% 120px;
+    /* border-bottom: 1px solid #00B19D; */
+}
+
+
+.year{
+    width: 280px;
+    margin-left: 40px;
+    float: left;
+}
+.year input{
+    margin-left: 20px;
+}
+
+.country{
+    float: left;
+    position: fixed;
+}
+.country input{ left: 40px;}
+
+select{
+    margin-left: 390px;
+}
+
+.search{
+    position: fixed;
+    left: 630px;
+    top: 170px;
+}
+
+.rcmd a{
+    position: fixed;
+    left: 50px;
+    top: 250px;
+}
+.rcmd div div{
+    margin-left: 60px;
+    margin-top: 30px;
+    float: left;
+}
+.results{
+    position: fixed;
+    top:250px;
+}
