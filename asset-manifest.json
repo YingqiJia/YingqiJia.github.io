@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.de07c69a.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.de07c69a.js.map": "/static/js/main.de07c69a.js.map"
+    "main.css": "/YingqiJia.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/YingqiJia.github.io/static/js/main.543ce275.js",
+    "index.html": "/YingqiJia.github.io/index.html",
+    "main.e6c13ad2.css.map": "/YingqiJia.github.io/static/css/main.e6c13ad2.css.map",
+    "main.543ce275.js.map": "/YingqiJia.github.io/static/js/main.543ce275.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.de07c69a.js"
+    "static/js/main.543ce275.js"
   ]
 }
